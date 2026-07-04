@@ -1,7 +1,6 @@
-# Student-Records-System
 # Student Record System
 
-A console-based application built in C++ (or Java/C#, change as needed) that allows users to manage student information efficiently. This project demonstrates core programming concepts including Object-Oriented Programming (OOP), arrays, and advanced control flow structures.
+A console-based application built in C++ that allows user to manage student information efficiently. This project demonstrates core programming concepts including Object-Oriented Programming (OOP), arrays, and advanced control flow structures.
 
 ## 🚀 Features
 * **Add Student Records:** Capture and store student details (ID, Name, Grades, etc.).
