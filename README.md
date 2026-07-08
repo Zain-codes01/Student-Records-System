@@ -17,8 +17,3 @@ This project was built to practice and showcase fundamental software development
 * **For Loops:** Iterates through arrays to display or search for specific student records.
 * **While Loops:** Drives the main application loop, keeping the program running until the user chooses to exit.
 
-## 💻 How to Run the Project
-
-1. **Clone the repository:**
-   ```bash
-   git clone [https://github.com/YOUR_USERNAME/YOUR_REPOSITORY_NAME.git](https://github.com/YOUR_USERNAME/YOUR_REPOSITORY_NAME.git)
